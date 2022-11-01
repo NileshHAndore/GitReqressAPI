@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="31" passed="31" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-01T10:33:32 IST" name="ReqresAPISuite" finished-at="2022-11-01T10:33:38 IST" duration-ms="6888">
+    <groups>
+    </groups>
+    <test started-at="2022-11-01T10:33:32 IST" name="ReqresAPISuite" finished-at="2022-11-01T10:33:38 IST" duration-ms="6888">
+      <class name="com.reqres.testCases.TC02_Get_Single_User">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="setUp" finished-at="2022-11-01T10:33:38 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="getSingleUser()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="getSingleUser" finished-at="2022-11-01T10:33:38 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUser -->
+        <test-method signature="checkContentEncoding()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="checkContentEncoding" finished-at="2022-11-01T10:33:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentEncoding -->
+        <test-method signature="checkContentType()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="checkContentType" finished-at="2022-11-01T10:33:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="checkResponseBody" finished-at="2022-11-01T10:33:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponseTime()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="checkResponseTime" finished-at="2022-11-01T10:33:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseTime -->
+        <test-method signature="checkServer()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="checkServer" finished-at="2022-11-01T10:33:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServer -->
+        <test-method signature="checkStatusCode()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="checkStatusCode" finished-at="2022-11-01T10:33:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method signature="checkStatusLine()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="checkStatusLine" finished-at="2022-11-01T10:33:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusLine -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.reqres.testCases.TC02_Get_Single_User@595b007d]" started-at="2022-11-01T10:33:38 IST" name="tearDown" finished-at="2022-11-01T10:33:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.reqres.testCases.TC02_Get_Single_User -->
+      <class name="com.reqres.testCases.TC04_Update_User_Record">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.reqres.testCases.TC04_Update_User_Record@222545dc]" started-at="2022-11-01T10:33:35 IST" name="setUp" finished-at="2022-11-01T10:33:35 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="updateUserRecord()[pri:0, instance:com.reqres.testCases.TC04_Update_User_Record@222545dc]" started-at="2022-11-01T10:33:35 IST" name="updateUserRecord" finished-at="2022-11-01T10:33:36 IST" duration-ms="1210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserRecord -->
+        <test-method signature="checkContentType()[pri:0, instance:com.reqres.testCases.TC04_Update_User_Record@222545dc]" started-at="2022-11-01T10:33:36 IST" name="checkContentType" finished-at="2022-11-01T10:33:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.reqres.testCases.TC04_Update_User_Record@222545dc]" started-at="2022-11-01T10:33:36 IST" name="checkResponseBody" finished-at="2022-11-01T10:33:36 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponseTime()[pri:0, instance:com.reqres.testCases.TC04_Update_User_Record@222545dc]" started-at="2022-11-01T10:33:36 IST" name="checkResponseTime" finished-at="2022-11-01T10:33:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseTime -->
+        <test-method signature="checkServer()[pri:0, instance:com.reqres.testCases.TC04_Update_User_Record@222545dc]" started-at="2022-11-01T10:33:36 IST" name="checkServer" finished-at="2022-11-01T10:33:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServer -->
+        <test-method signature="checkStatusCode()[pri:0, instance:com.reqres.testCases.TC04_Update_User_Record@222545dc]" started-at="2022-11-01T10:33:36 IST" name="checkStatusCode" finished-at="2022-11-01T10:33:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method signature="checkStatusLine()[pri:0, instance:com.reqres.testCases.TC04_Update_User_Record@222545dc]" started-at="2022-11-01T10:33:36 IST" name="checkStatusLine" finished-at="2022-11-01T10:33:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusLine -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.reqres.testCases.TC04_Update_User_Record@222545dc]" started-at="2022-11-01T10:33:36 IST" name="tearDown" finished-at="2022-11-01T10:33:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.reqres.testCases.TC04_Update_User_Record -->
+      <class name="com.reqres.testCases.TC03_Create_User">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.reqres.testCases.TC03_Create_User@16293aa2]" started-at="2022-11-01T10:33:37 IST" name="setUp" finished-at="2022-11-01T10:33:37 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="createUser()[pri:0, instance:com.reqres.testCases.TC03_Create_User@16293aa2]" started-at="2022-11-01T10:33:37 IST" name="createUser" finished-at="2022-11-01T10:33:38 IST" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="checkContentType()[pri:0, instance:com.reqres.testCases.TC03_Create_User@16293aa2]" started-at="2022-11-01T10:33:38 IST" name="checkContentType" finished-at="2022-11-01T10:33:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.reqres.testCases.TC03_Create_User@16293aa2]" started-at="2022-11-01T10:33:38 IST" name="checkResponseBody" finished-at="2022-11-01T10:33:38 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponseTime()[pri:0, instance:com.reqres.testCases.TC03_Create_User@16293aa2]" started-at="2022-11-01T10:33:38 IST" name="checkResponseTime" finished-at="2022-11-01T10:33:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseTime -->
+        <test-method signature="checkServer()[pri:0, instance:com.reqres.testCases.TC03_Create_User@16293aa2]" started-at="2022-11-01T10:33:38 IST" name="checkServer" finished-at="2022-11-01T10:33:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServer -->
+        <test-method signature="checkStatusCode()[pri:0, instance:com.reqres.testCases.TC03_Create_User@16293aa2]" started-at="2022-11-01T10:33:38 IST" name="checkStatusCode" finished-at="2022-11-01T10:33:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method signature="checkStatusLine()[pri:0, instance:com.reqres.testCases.TC03_Create_User@16293aa2]" started-at="2022-11-01T10:33:38 IST" name="checkStatusLine" finished-at="2022-11-01T10:33:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusLine -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.reqres.testCases.TC03_Create_User@16293aa2]" started-at="2022-11-01T10:33:38 IST" name="tearDown" finished-at="2022-11-01T10:33:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.reqres.testCases.TC03_Create_User -->
+      <class name="com.reqres.testCases.TC01_Get_User">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:32 IST" name="setUp" finished-at="2022-11-01T10:33:32 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="getAllUser()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:32 IST" name="getAllUser" finished-at="2022-11-01T10:33:35 IST" duration-ms="2778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUser -->
+        <test-method signature="checkContentEncoding()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:35 IST" name="checkContentEncoding" finished-at="2022-11-01T10:33:35 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentEncoding -->
+        <test-method signature="checkContentType()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:35 IST" name="checkContentType" finished-at="2022-11-01T10:33:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:35 IST" name="checkResponseBody" finished-at="2022-11-01T10:33:35 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponseTime()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:35 IST" name="checkResponseTime" finished-at="2022-11-01T10:33:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseTime -->
+        <test-method signature="checkServer()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:35 IST" name="checkServer" finished-at="2022-11-01T10:33:35 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServer -->
+        <test-method signature="checkStatusCode()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:35 IST" name="checkStatusCode" finished-at="2022-11-01T10:33:35 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method signature="checkStatusLine()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:35 IST" name="checkStatusLine" finished-at="2022-11-01T10:33:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusLine -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.reqres.testCases.TC01_Get_User@1aa7ecca]" started-at="2022-11-01T10:33:35 IST" name="tearDown" finished-at="2022-11-01T10:33:35 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.reqres.testCases.TC01_Get_User -->
+      <class name="com.reqres.testCases.TC05_Delete_User_Record">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.reqres.testCases.TC05_Delete_User_Record@5c5eefef]" started-at="2022-11-01T10:33:36 IST" name="setUp" finished-at="2022-11-01T10:33:36 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="deleteUserRecord()[pri:0, instance:com.reqres.testCases.TC05_Delete_User_Record@5c5eefef]" started-at="2022-11-01T10:33:36 IST" name="deleteUserRecord" finished-at="2022-11-01T10:33:37 IST" duration-ms="884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserRecord -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.reqres.testCases.TC05_Delete_User_Record@5c5eefef]" started-at="2022-11-01T10:33:37 IST" name="checkResponseBody" finished-at="2022-11-01T10:33:37 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponseTime()[pri:0, instance:com.reqres.testCases.TC05_Delete_User_Record@5c5eefef]" started-at="2022-11-01T10:33:37 IST" name="checkResponseTime" finished-at="2022-11-01T10:33:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseTime -->
+        <test-method signature="checkServer()[pri:0, instance:com.reqres.testCases.TC05_Delete_User_Record@5c5eefef]" started-at="2022-11-01T10:33:37 IST" name="checkServer" finished-at="2022-11-01T10:33:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServer -->
+        <test-method signature="checkStatusCode()[pri:0, instance:com.reqres.testCases.TC05_Delete_User_Record@5c5eefef]" started-at="2022-11-01T10:33:37 IST" name="checkStatusCode" finished-at="2022-11-01T10:33:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method signature="checkStatusLine()[pri:0, instance:com.reqres.testCases.TC05_Delete_User_Record@5c5eefef]" started-at="2022-11-01T10:33:37 IST" name="checkStatusLine" finished-at="2022-11-01T10:33:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusLine -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.reqres.testCases.TC05_Delete_User_Record@5c5eefef]" started-at="2022-11-01T10:33:37 IST" name="tearDown" finished-at="2022-11-01T10:33:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.reqres.testCases.TC05_Delete_User_Record -->
+    </test> <!-- ReqresAPISuite -->
+  </suite> <!-- ReqresAPISuite -->
+</testng-results>
